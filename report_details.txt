@@ -1,0 +1,126 @@
+CS202002013_1(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Pax6, Sncg Col14a1_3, Lamp5 Egln3_3, Lamp5 Slc35d3, Sncg Slc17a8, Lamp5 Egln3_2
+CS202002013_2(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Egln3_3, Lamp5 Egln3_2, Lamp5 Pax6, Sncg Col14a1_2, OPC Pdgfra_3
+CS202002013_3(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Egln3_2, Lamp5 Pdlim5, Lamp5 Egln3_3, Lamp5 Slc35d3, Vip Igfbp6_1
+CS202002013_4(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Egln3_1, Lamp5 Egln3_2, CR, Lamp5 Pdlim5, Vip Igfbp6_1, Sst Myh8_2, Prog_2, Lamp5 Egln3_3, Sncg Col14a1_2
+CS202002013_5(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Pdlim5, Lamp5 Egln3_1
+CS202002013_6(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Pdlim5, Lamp5 Slc35d3
+CS202002013_7(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Slc35d3, Vip Serpinf1_2, L6 CT Cpa6
+CS202002013_8(Cell Type) is represented in multiple BICCN_clusters:Lamp5 Lhx6, Pvalb Vipr2
+CS202002013_9(Cell Type) is represented in multiple BICCN_clusters:Sncg Col14a1_3, Sncg Slc17a8, Sncg Col14a1_2, Sncg Col14a1_1, Vip Serpinf1_1
+CS202002013_10(Cell Type) is represented in multiple BICCN_clusters:Sncg Slc17a8, Sncg Col14a1_1, Vip Serpinf1_1
+CS202002013_11(Cell Type) is represented in multiple BICCN_clusters:Sncg Col14a1_1, Sncg Col14a1_3, Sncg Col14a1_2, Sncg Slc17a8, L6 CT Cpa6, Lamp5 Pax6
+CS202002013_12(Cell Type) is represented in multiple BICCN_clusters:Sncg Col14a1_2, Sncg Col14a1_1
+CS202002013_14(Cell Type) is represented in multiple BICCN_clusters:Sncg Col14a1_2, Vip Crispld2, Sncg Col14a1_3
+CS202002013_15(Cell Type) is represented in multiple BICCN_clusters:Vip Chat_1, Vip Serpinf1_1, Vip Htr1f
+CS202002013_16(Cell Type) is represented in multiple BICCN_clusters:Vip Serpinf1_1, Vip Serpinf1_2, Vip Htr1f, Sncg Col14a1_3
+CS202002013_17(Cell Type) is represented in multiple BICCN_clusters:Vip Serpinf1_2, Lamp5 Slc35d3, Vip Serpinf1_1
+CS202002013_18(Cell Type) is represented in multiple BICCN_clusters:Vip Htr1f, Vip Chat_5, Vip Serpinf1_2, Sncg Col14a1_3, Vip Crispld2, Sst Myh8_2, Vip Chat_1, Vip Chat_6, L5 IT S100b
+CS202002013_19(Cell Type) is represented in multiple BICCN_clusters:Vip Chat_7, Vip Chat_2, Prog_2, Vip Chat_6, Vip Chat_1, Prog_4, Prog_3
+CS202002013_20(Cell Type) is represented in multiple BICCN_clusters:Vip Htr1f, Vip Chat_6, Vip Igfbp6_1, Vip Chat_5, Vip Chat_7
+CS202002013_21(Cell Type) is represented in multiple BICCN_clusters:Vip Crispld2, Vip Chat_5, Sncg Col14a1_2, L2/3 IT_2, Vip Chat_6, L5 IT S100b
+CS202002013_22(Cell Type) is represented in multiple BICCN_clusters:Vip Chat_4, Vip Crispld2, Vip Chat_2, Vip Chat_1, Vip Chat_5, Vip Chat_3
+CS202002013_23(Cell Type) is represented in multiple BICCN_clusters:Vip Chat_2, Vip Chat_4, Vip Chat_7, Vip Chat_5, Vip Chat_3, Vip Chat_1, Pvalb Il1rapl2, L2/3 IT_1
+CS202002013_24(Cell Type) is represented in multiple BICCN_clusters:Vip Chat_6, Vip Chat_3, Vip Crispld2, Vip Chat_2, Vip Igfbp6_1, Vip Chat_5
+CS202002013_25(Cell Type) is represented in multiple BICCN_clusters:Vip Chat_5, Vip Chat_2, Vip Chat_3, Vip Htr1f, Vip Chat_6
+CS202002013_26(Cell Type) is represented in multiple BICCN_clusters:Vip Igfbp6_2, Vip Igfbp6_1, Lamp5 Egln3_1
+CS202002013_27(Cell Type) is represented in multiple BICCN_clusters:Vip Igfbp6_1, Vip Igfbp6_2, Vip Chat_6
+CS202002013_29(Cell Type) is represented in multiple BICCN_clusters:Sst Myh8_1, Sst Myh8_2
+CS202002013_30(Cell Type) is represented in multiple BICCN_clusters:Sst Myh8_2, Sst C1ql3, Sst Etv1_1
+CS202002013_31(Cell Type) is represented in multiple BICCN_clusters:Sst C1ql3, Sst Myh8_2
+CS202002013_32(Cell Type) is represented in multiple BICCN_clusters:Sst C1ql3, Sst Hpse_3, Sst C1ql3_1, Sst Hpse_2, CR
+CS202002013_33(Cell Type) is represented in multiple BICCN_clusters:Sst Hpse_3, Sst C1ql3
+CS202002013_34(Cell Type) is represented in multiple BICCN_clusters:Sst Etv1_1, Sst Myh8_2, Sst C1ql3
+CS202002013_35(Cell Type) is represented in multiple BICCN_clusters:Sst Etv1_1, Sst Calb2
+CS202002013_36(Cell Type) is represented in multiple BICCN_clusters:Sst Hpse_1, Sst Hpse_3, Sst Etv1_2, Sst C1ql3_1, Sst C1ql3_2
+CS202002013_37(Cell Type) is represented in multiple BICCN_clusters:Sst Hpse_1, Sst Hpse_2, Pvalb Sst Th_1, Sst C1ql3_1, Sst Myh8_2
+CS202002013_38(Cell Type) is represented in multiple BICCN_clusters:Sst Hpse_3, Sst Etv1_2, Sst Calb2, Sst Hpse_1
+CS202002013_39(Cell Type) is represented in multiple BICCN_clusters:Sst Calb2, Sst Hpse_3, Sst Etv1_2, Sst Etv1_1, Sst Chodl
+CS202002013_40(Cell Type) is represented in multiple BICCN_clusters:Sst Calb2, Pvalb Sst Th_1, Sst Hpse_2
+CS202002013_41(Cell Type) is represented in multiple BICCN_clusters:Sst Etv1_2, Pvalb Il1rapl2, Pvalb Prdm8_2, Sst Hpse_1, Sst Calb2, Sst Hpse_3
+CS202002013_42(Cell Type) is represented in multiple BICCN_clusters:Pvalb Sst Th_1, Sst C1ql3_2, Sst Hpse_1, Pvalb Sst Th_3, Sst Etv1_2, Pvalb Prdm8_2, Sst C1ql3_1
+CS202002013_43(Cell Type) is represented in multiple BICCN_clusters:Sst C1ql3_1, Sst C1ql3_2, Sst Hpse_1
+CS202002013_44(Cell Type) is represented in multiple BICCN_clusters:Sst C1ql3_3, Sst C1ql3_1, Sst C1ql3_2, Sst Hpse_2
+CS202002013_45(Cell Type) is represented in multiple BICCN_clusters:Sst C1ql3_2, Sst C1ql3_3, Pvalb Sst Th_1, Sst Myh8_1, Sst Hpse_2
+CS202002013_46(Cell Type) is represented in multiple BICCN_clusters:Pvalb Sst Th_3, Pvalb Sst Th_1, Sst Myh8_1
+CS202002013_47(Cell Type) is represented in multiple BICCN_clusters:Pvalb Sst Th_1, Pvalb Sst Th_3
+CS202002013_48(Cell Type) is represented in multiple BICCN_clusters:Pvalb Sst Th_2, Pvalb Sst Th_3, Pvalb Prdm8_1, Pvalb Gpr149, Pvalb Prdm8_2
+CS202002013_49(Cell Type) is represented in multiple BICCN_clusters:Pvalb Prdm8_1, Sst C1ql3_2, Pvalb Sst Th_3, Pvalb Prdm8_2, Sst C1ql3_3, Pvalb Sst Th_1, Pvalb Gpr149
+CS202002013_51(Cell Type) is represented in multiple BICCN_clusters:Pvalb Prdm8_2, Pvalb Il1rapl2, Pvalb Prdm8_1, Pvalb Gpr149
+CS202002013_52(Cell Type) is represented in multiple BICCN_clusters:Pvalb Prdm8_2, Pvalb Il1rapl2, Sst Hpse_1, Sst Etv1_2, Pvalb Gpr149, Pvalb Prdm8_1, Pvalb Sst Th_1
+CS202002013_53(Cell Type) is represented in multiple BICCN_clusters:Pvalb Gpr149, Pvalb Il1rapl2, Pvalb Prdm8_2, Pvalb Prdm8_1, Pvalb Nkx2.1, Sst Etv1_2, Pvalb Sst Th_3
+CS202002013_54(Cell Type) is represented in multiple BICCN_clusters:Pvalb Il1rapl2, Pvalb Prdm8_2, Pvalb Gpr149, Pvalb Nkx2.1
+CS202002013_55(Cell Type) is represented in multiple BICCN_clusters:Pvalb Il1rapl2, Sst Etv1_2, Pvalb Gpr149, Pvalb Nkx2.1, Pvalb Prdm8_2
+CS202002013_56(Cell Type) is represented in multiple BICCN_clusters:Pvalb Nkx2.1, Pvalb Vipr2
+CS202002013_57(Cell Type) is represented in multiple BICCN_clusters:Pvalb Vipr2, Pvalb Il1rapl2
+CS202002013_58(Cell Type) is represented in multiple BICCN_clusters:L2/3 IT_1, Prog_1
+CS202002013_60(Cell Type) is represented in multiple BICCN_clusters:L2/3 IT_1, L2/3 IT_2, L6 IT Sulf1_1, L5 IT Rspo1, Prog_1, L6 IT Sulf1 Fos
+CS202002013_61(Cell Type) is represented in multiple BICCN_clusters:L2/3 IT_2, L2/3 IT_1, L5 IT Rspo1
+CS202002013_62(Cell Type) is represented in multiple BICCN_clusters:L5 IT Rspo1, L2/3 IT_2, L5 IT S100b, CR, L6 IT Sulf1_2, L2/3 IT_1, L6 IT Sulf1 Fos
+CS202002013_63(Cell Type) is represented in multiple BICCN_clusters:L5 IT S100b, L5 IT Rspo1, L2/3 IT_2, L5 IT Pld5, CR, L6 IT Sulf1_2, L6 IT Sulf1 Fos
+CS202002013_64(Cell Type) is represented in multiple BICCN_clusters:L5 IT S100b, L5 IT Pld5, L6 IT Sulf1_1, L5 ET_1
+CS202002013_65(Cell Type) is represented in multiple BICCN_clusters:L5 IT S100b, L5 IT Pld5, L2/3 IT_2, L5 IT Rspo1, L5 ET_4, L6 IT Sulf1_2, L2/3 IT_1, L6 IT Sulf1_1
+CS202002013_66(Cell Type) is represented in multiple BICCN_clusters:L6 IT Sulf1_1, L5 IT Pld5, L5 IT S100b, L2/3 IT_2, L6 IT Sulf1_2, L2/3 IT_1, L6 IT Sulf1 Fos, L5 IT Rspo1
+CS202002013_67(Cell Type) is represented in multiple BICCN_clusters:L6 IT Sulf1 Fos, L6 IT Sulf1_2, L6 IT Sulf1_1, L5 IT S100b, L2/3 IT_2, L5 IT Rspo1, L2/3 IT_1, L5 IT Pld5, Pvalb Prdm8_2
+CS202002013_68(Cell Type) is represented in multiple BICCN_clusters:L6 IT Sulf1_1, L6 IT Sulf1 Fos, L2/3 IT_1, L2/3 IT_2, L5 IT Pld5
+CS202002013_70(Cell Type) is represented in multiple BICCN_clusters:L5 ET_1, L5 ET_4, L5 ET_2, L5 ET_6, CR, L5 ET_5, L6 CT Cpa6, Prog_2, L5 IT S100b
+CS202002013_71(Cell Type) is represented in multiple BICCN_clusters:L5 ET_3, L5 ET_5, L5 ET_4, L5 ET_1, L5 ET_2, L5 IT S100b
+CS202002013_72(Cell Type) is represented in multiple BICCN_clusters:L5 ET_4, L5 ET_5, L5 ET_3, L5 ET_1, L5 ET_2, L5 IT Rspo1, L5 ET_6
+CS202002013_73(Cell Type) is represented in multiple BICCN_clusters:L5 ET_5, L5 ET_2, L5 ET_1, L5 ET_4, L5 ET_6
+CS202002013_74(Cell Type) is represented in multiple BICCN_clusters:L5/6 NP CT, L6 CT Cpa6, L5/6 NP_2, L5 IT S100b, L5/6 NP_1
+CS202002013_76(Cell Type) is represented in multiple BICCN_clusters:L6 CT Cpa6, Prog_1, L6b Rprm_1, Prog_3
+CS202002013_77(Cell Type) is represented in multiple BICCN_clusters:L6 CT Cpa6, Prog_3, Prog_1
+CS202002013_78(Cell Type) is represented in multiple BICCN_clusters:L6 CT Cpa6, L5/6 NP CT
+CS202002013_79(Cell Type) is represented in multiple BICCN_clusters:L6 CT Cpa6, L6b Rprm_1, L5/6 NP CT
+CS202002013_81(Cell Type) is represented in multiple BICCN_clusters:L6 CT Cpa6, L6b Rprm_3, L6b Rprm_1, L6b Rprm_2
+CS202002013_82(Cell Type) is represented in multiple BICCN_clusters:L6b Rprm_3, L6b Shisa6, L6b Ror1_1, L6 CT Cpa6, L6b Rprm_2, L6b Rprm_1, L6b Ror1_2
+CS202002013_83(Cell Type) is represented in multiple BICCN_clusters:L6b Ror1_1, L6b Shisa6, L6 CT Cpa6, Prog_3, L6b Rprm_3, L6b Rprm_2, Prog_4, Prog_2, Prog_1
+CS202002013_84(Cell Type) is represented in multiple BICCN_clusters:L6b Ror1_2, L6b Ror1_1, L6 CT Cpa6, L6b Shisa6, L6b Rprm_3, L6b Rprm_2, Sst Hpse_1, Prog_2
+CS202002013_85(Cell Type) is represented in multiple BICCN_clusters:L6b Kcnip1, L6b Ror1_2, L6b Rprm_3
+CS202002013_86(Cell Type) is represented in multiple BICCN_clusters:L5/6 NP_2, L5/6 NP_3
+
+CS202002013_87(Cell Type) is represented in multiple BICCN_clusters:L5/6 NP_2, L5/6 NP CT, L5/6 NP_3
+CS202002013_88(Cell Type) is represented in multiple BICCN_clusters:L5/6 NP_3, L5/6 NP CT, L5/6 NP_2, L5/6 NP_1, L6 CT Cpa6, L2/3 IT_1
+CS202002013_89(Cell Type) is represented in multiple BICCN_clusters:Prog_2, Prog_4, Prog_3
+CS202002013_90(Cell Type) is represented in multiple BICCN_clusters:Prog_4, Prog_3, Prog_2, Prog_1
+CS202002013_92(Cell Type) is represented in multiple BICCN_clusters:Prog_4, Prog_5, Prog_3, Prog_2
+CS202002013_93(Cell Type) is represented in multiple BICCN_clusters:Astro Aqp4_3, Astro Aqp4_1, Prog_4, Astro Aqp4_2, Astro Aqp4_4, Prog_3
+CS202002013_94(Cell Type) is represented in multiple BICCN_clusters:Astro Aqp4_1, Astro Aqp4_4, Astro Aqp4_3, Prog_5, L2/3 IT_1
+CS202002013_95(Cell Type) is represented in multiple BICCN_clusters:Oligo Enpp6_2, Oligo Enpp6_3, Oligo Enpp6_5, OPC Pdgfra_3, Oligo Opalin_4
+CS202002013_96(Cell Type) is represented in multiple BICCN_clusters:Oligo Enpp6_1, Oligo Enpp6_2, OPC Pdgfra_3, Vip Chat_2
+CS202002013_97(Cell Type) is represented in multiple BICCN_clusters:Oligo Enpp6_5, Oligo Enpp6_4, Oligo Enpp6_3, Oligo Opalin_4
+CS202002013_98(Cell Type) is represented in multiple BICCN_clusters:Oligo Enpp6_4, Oligo Opalin_1, Oligo Opalin_4, Oligo Enpp6_5
+CS202002013_99(Cell Type) is represented in multiple BICCN_clusters:Oligo Opalin_4, Oligo Opalin_3
+CS202002013_100(Cell Type) is represented in multiple BICCN_clusters:Oligo Opalin_4, Oligo Opalin_3, Oligo Opalin_2, Prog_4
+CS202002013_101(Cell Type) is represented in multiple BICCN_clusters:Oligo Opalin_4, Oligo Opalin_2
+CS202002013_102(Cell Type) is represented in multiple BICCN_clusters:Oligo Opalin_2, Oligo Opalin_1, Oligo Opalin_4, Prog_4
+CS202002013_104(Cell Type) is represented in multiple BICCN_clusters:VLMC_5, VLMC_2
+CS202002013_105(Cell Type) is represented in multiple BICCN_clusters:VLMC_3, VLMC_4, VLMC_2, VLMC_5, CR
+CS202002013_107(Cell Type) is represented in multiple BICCN_clusters:VLMC_1, VLMC_4
+CS202002013_108(Cell Type) is represented in multiple BICCN_clusters:VLMC_6, VLMC_7
+CS202002013_109(Cell Type) is represented in multiple BICCN_clusters:VLMC_7, VLMC_8, VLMC_6
+CS202002013_110(Cell Type) is represented in multiple BICCN_clusters:VLMC_8, VLMC_7
+CS202002013_114(Cell Type) is represented in multiple BICCN_clusters:Macrophage_3, Macrophage_2
+CS202002013_115(Cell Type) is represented in multiple BICCN_clusters:Macrophage_3, Macrophage_1, Macrophage_2
+CS202002013_116(Cell Type) is represented in multiple BICCN_clusters:Macrophage_1, Prog_1
+CS202002013_123(Class) is represented in multiple BICCN_class:GABAergic, Glutamatergic, Non-Neuronal
+CS202002013_125(Subclass) is represented in multiple BICCN_subclass:Lamp5, CR, Sncg, Vip, Sst, Pvalb, Prog/IP, OPC, L6 CT
+CS202002013_133(Subclass) is represented in multiple BICCN_subclass:Sncg, Vip, L6 CT, Lamp5
+CS202002013_138(Subclass) is represented in multiple BICCN_subclass:Vip, Lamp5, Sncg, Pvalb, Prog/IP, L2/3 IT, Sst, L5 IT
+CS202002013_179(Class) is represented in multiple BICCN_class:Glutamatergic, GABAergic, Non-Neuronal
+CS202002013_183(Subclass) is represented in multiple BICCN_subclass:L2/3 IT, L6 IT, L5 IT, Prog/IP
+CS202002013_188(Subclass) is represented in multiple BICCN_subclass:L2/3 IT, L5 IT, CR, L6 IT
+CS202002013_189(Subclass) is represented in multiple BICCN_subclass:L6 IT, L5 IT, L2/3 IT, L5 ET, CR
+CS202002013_192(Subclass) is represented in multiple BICCN_subclass:L6 IT, L5 IT, L2/3 IT, Pvalb
+CS202002013_193(Subclass) is represented in multiple BICCN_subclass:L5 ET, CR, L6 CT, Prog/IP, L5 IT
+CS202002013_197(Subclass) is represented in multiple BICCN_subclass:L6 CT, L5/6 NP, Prog/IP, L5 IT, L6b
+CS202002013_203(Subclass) is represented in multiple BICCN_subclass:L6b, L6 CT, Prog/IP, Sst
+CS202002013_207(Subclass) is represented in multiple BICCN_subclass:L5/6 NP, L6 CT, L2/3 IT
+CS202002013_210(Subclass) is represented in multiple BICCN_subclass:Astro, Prog/IP, L2/3 IT
+CS202002013_212(Subclass) is represented in multiple BICCN_subclass:Oligo, OPC, Prog/IP, Vip
+CS202002013_219(Class) is represented in multiple BICCN_class:Non-Neuronal, GABAergic, Glutamatergic
+CS202002013_222(Subclass) is represented in multiple BICCN_subclass:VLMC, CR
+CS202002013_229(Subclass) is represented in multiple BICCN_subclass:Macrophage, Prog/IP
+CS202002013_232(Subclass) is represented in multiple BICCN_subclass:Sst, Pvalb, CR, L6 IT
+CS202002013_233(Subclass) is represented in multiple BICCN_subclass:Pvalb, Sst
+CS202002013_235(Class) is represented in multiple BICCN_class:Non-Neuronal, GABAergic, Glutamatergic
+
